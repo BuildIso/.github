@@ -1,10 +1,10 @@
 # About BuildIso
 
-## BuildIso License of all the repos
-All the licenses of the repos are **MIT** (Massachusetts Institute of Technology)
+## BuildIso Repositories License
+All repositories are licensed under the **MIT License** (Massachusetts Institute of Technology).
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/eeed8307-bca0-45c5-b93f-723859e6a708" />
 
-Each **copy** of the BuildIso repos (or others) must **contain** this **MIT** license text: 
+Every **copy** of the BuildIso repositories (or derivative works) must **include** the following **MIT** license text:
 ```
 MIT License
 
@@ -29,10 +29,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 ## BuildIso Logo
-<img width="64" height="64" alt="Design sans titre (1)" src="https://github.com/user-attachments/assets/c0d38252-4fb1-4d34-b23d-82d6ee66344a" />
+<img width="64" height="64" alt="BuildIso Logo" src="https://github.com/user-attachments/assets/c0d38252-4fb1-4d34-b23d-82d6ee66344a" />
 
 ## What is BuildIso?
-BuildIso brings together utility tools, the tools are MIT.
+BuildIso provides a collection of utility tools, all of which are distributed under the MIT License.
 
-## Description Version
+## Document Version
 v2026.1
