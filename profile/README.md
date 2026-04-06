@@ -1,8 +1,9 @@
 # About BuildIso
 
 ## BuildIso Repositories License
-All repositories are licensed under the **MIT License** (Massachusetts Institute of Technology).
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/eeed8307-bca0-45c5-b93f-723859e6a708" />
+All repositories are licensed under the **MIT License**.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 Every **copy** of the BuildIso repositories (or derivative works) must **include** the following **MIT** license text:
 ```
