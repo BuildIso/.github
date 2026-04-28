@@ -30,7 +30,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 ## BuildIso Logo
-<img width="64" height="64" alt="BuildIso Logo" src="https://github.com/user-attachments/assets/c0d38252-4fb1-4d34-b23d-82d6ee66344a" />
+<img width="128" height="128" alt="BuildIso Logo" src="https://github.com/user-attachments/assets/f0fc1683-1175-495c-a064-a0c6d9d4a377" />
+
 
 ## What is BuildIso?
 BuildIso provides a collection of utility tools, all of which are distributed under the MIT License.
