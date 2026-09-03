@@ -36,5 +36,9 @@ SOFTWARE.
 ## What is BuildIso?
 BuildIso provides a collection of utility tools, all of which are distributed under the MIT License.
 
+## Partner
+
+Our Partner with BuildIso is in Discord. Join the partner Discord: https://discord.gg/qEdvPBxBEq
+
 ## Document Version
-v2026.1
+v2026.2
